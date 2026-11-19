@@ -1,0 +1,4 @@
+#pragma once
+#define FSF_VERSION "@PROJECT_VERSION@"
+#define FSF_GIT_DESCRIBE "@FSF_GIT_DESCRIBE@"
+#define FSF_BEHAVIOR "STAR-Fusion v1.15.1"

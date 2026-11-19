@@ -1,0 +1,5 @@
+# Build context for docker/fsf.Dockerfile: the sources only.
+work/
+build/
+dist/
+**/*.o
